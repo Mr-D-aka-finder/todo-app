@@ -68,7 +68,7 @@ Done. Now run:
  
  [ブラウザで]( http://localhost:5173) にアクセスするとReactアプリが表示される。
  
- ##参考
+ ## 参考
  このプロジェクトは[Zenn](https://zenn.dev/) で公開されている [React Hooks と TypeScript で簡単 TODO アプリ](https://zenn.dev/sprout2000/articles/60cc8f1aa08b4b)の写経用リポジトリです。
 
 
