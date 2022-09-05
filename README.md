@@ -3,7 +3,9 @@ React, TypeScriptで作るシンプルなtodoアプリ。
 React, TypeScriptの基礎をアウトプットするのに最適なプロジェクト。
 
 ## プロジェクトを通して学べること
+
 Hooksを使用した基礎的な開発
+
 React, TypeScriptの基礎
 
 ## 環境
