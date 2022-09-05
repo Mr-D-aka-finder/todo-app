@@ -8,7 +8,21 @@ Hooksを使用した基礎的な開発
 
 React, TypeScriptの基礎
 
+## 学習対象者
+
+ある程度のJavaScript(https://developer.mozilla.org/ja/docs/Web/JavaScript) の知識がある
+
+React公式チュートリアル(https://ja.reactjs.org/) を終えて次の段階へ進みたい人
+
+Node.js(https://nodejs.org/ja/) をインストール済みであること
+
+Git Bash もしくは何らかの UNIX シェルの操作をある程度習得している人
+
+
+
 ## 環境
+
+M1 Mac book air
 
 | 環境    | バージョン   |
 |:--------|:--------:|
@@ -43,7 +57,7 @@ Done. Now run:
   npm run dev
   ```
   
- ### 起動
+ ## 起動
  viteの指示に従い、プロジェクトを起動すればOK。
  
  ```shell
@@ -53,5 +67,8 @@ Done. Now run:
  ```
  
  ブラウザで( http://localhost:5173) にアクセスするとReactアプリが表示される。
+ 
+ ##参考
+ このプロジェクトは[Zenn](https://zenn.dev/) で公開されている [React Hooks と TypeScript で簡単 TODO アプリ](https://zenn.dev/sprout2000/articles/60cc8f1aa08b4b)の写経用リポジトリです。
 
 
