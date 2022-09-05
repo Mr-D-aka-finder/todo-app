@@ -15,7 +15,7 @@ React, TypeScriptの基礎
 
 ## 開発環境の準備
 
-Vite.js(https://ja.vitejs.dev/)を使用しプロジェクト環境を構築する
+Vite.js(https://ja.vitejs.dev/) を使用しプロジェクト環境を構築する
 
 ```shell
 # Node.js に同梱されている npm コマンドを利用する場合
@@ -50,6 +50,6 @@ Done. Now run:
  % npm run dev
  ```
  
- ブラウザで( http://localhost:5173)にアクセスするとReactアプリが表示される。
+ ブラウザで( http://localhost:5173) にアクセスするとReactアプリが表示される。
 
 
